@@ -1,0 +1,10 @@
+import type { CapacitorConfig } from '@capacitor/cli';
+
+const config: CapacitorConfig = {
+  appId: 'pl.wulkanizacja.warsztat',
+  appName: 'Wulkanizacja',
+  webDir: 'dist',
+  android: { backgroundColor: '#0b0f19' }
+};
+
+export default config;

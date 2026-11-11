@@ -1,0 +1,6 @@
+{
+  "name": "Wulkanizacja - Warsztat Point & Click",
+  "description": "Humorystyczna gra symulacyjna w widoku izometrycznym przedstawiająca codzienną pracę warsztatu wulkanizacyjnego.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

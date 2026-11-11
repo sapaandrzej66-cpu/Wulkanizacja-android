@@ -1,0 +1,8 @@
+DODANA MUZYKA W TLE
+
+Do gry dodano przycisk WŁĄCZ MUZYKĘ / MUZYKA ON.
+Odtwarzanie korzysta z oficjalnego osadzonego odtwarzacza YouTube dla utworu wskazanego przez użytkownika.
+Wymagane jest połączenie z internetem. Odtwarzanie rozpoczyna się dopiero po kliknięciu przez gracza (ograniczenia autoplay w Androidzie/przeglądarkach).
+Wyłączenie muzyki zamyka odtwarzacz i zatrzymuje odtwarzanie.
+
+Uwaga: dostępność utworu i możliwość osadzania zależą od ustawień właściciela nagrania i YouTube.
